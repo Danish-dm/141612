@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Danish_Mehmood" name="TestSuit1" skipped="0" tests="11" time="0.089" timestamp="2018-03-28T07:11:23">
+<testsuite errors="0" failures="1" hostname="Danish_Mehmood" name="TestSuit1" skipped="0" tests="11" time="0.089" timestamp="2018-03-28T07:11:23">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DANISH_MEHMOOD" />
