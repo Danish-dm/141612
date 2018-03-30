@@ -154,7 +154,7 @@ public class TestSuit1 {
 			
 			iter.hasNext();
 			if ((Integer)iter.next()>0){
-				assertEquals(0,0);
+				assertEquals(1,0);
 			}
 			else{
 				assertEquals(1,1);
